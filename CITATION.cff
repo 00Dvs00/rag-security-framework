@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this project in your work, please cite it."
+message: "If you use this project in your work, please cite the project and the relevant background literature below."
 title: "Runtime Defense Pipeline for RAG Jailbreak & Prompt-Injection Attacks"
 authors:
   - family-names: "Student"
@@ -7,5 +7,63 @@ authors:
     orcid: "https://orcid.org/0000-0000-0000-0000"
 version: 0.1.0
 date-released: "2026-08-13"
-url: "https://github.com/<your-username>/rag-jailbreak-defense"
+url: "https://github.com/00Dvs00/rag-security-framework"
 license: "MIT"
+references:
+  - type: article
+    title: "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection"
+    authors:
+      - family-names: "Greshake"
+        given-names: "Kai"
+      - family-names: "Abdelnabi"
+        given-names: "Sahar"
+      - family-names: "Machanavajjhala"
+        given-names: "Ashwin"
+      - family-names: "Biggio"
+        given-names: "Battista"
+      - family-names: "Roli"
+        given-names: "Fabio"
+      - family-names: "Fischlin"
+        given-names: "Marc"
+    year: 2023
+    url: "https://arxiv.org/abs/2302.12173"
+  - type: article
+    title: "Jailbroken: How does LLM safety training fail?"
+    authors:
+      - family-names: "Wei"
+        given-names: "Alexander"
+      - family-names: "Haghtalab"
+        given-names: "Nika"
+      - family-names: "Steinhardt"
+        given-names: "Jacob"
+    year: 2023
+    url: "https://arxiv.org/abs/2307.02483"
+  - type: article
+    title: "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"
+    authors:
+      - family-names: "Lewis"
+        given-names: "Patrick"
+      - family-names: "Perez"
+        given-names: "Ethan"
+      - family-names: "Piktus"
+        given-names: "Aleksandra"
+      - family-names: "Petroni"
+        given-names: "Fabio"
+      - family-names: "Karpukhin"
+        given-names: "Vladimir"
+      - family-names: "Goyal"
+        given-names: "Naman"
+      - family-names: "Küttler"
+        given-names: "Heinrich"
+      - family-names: "Lewis"
+        given-names: "Mike"
+      - family-names: "Yih"
+        given-names: "Wen-tau"
+      - family-names: "Rocktäschel"
+        given-names: "Tim"
+      - family-names: "Riedel"
+        given-names: "Sebastian"
+      - family-names: "Kiela"
+        given-names: "Douwe"
+    year: 2020
+    url: "https://arxiv.org/abs/2005.11401"

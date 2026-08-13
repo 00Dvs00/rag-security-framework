@@ -95,6 +95,16 @@ This is a research-oriented security prototype rather than a production guarante
 - add a more interactive demo for the defense pipeline
 - extend evaluation to include additional attack families and ablation comparisons
 
+## License
+
+This project is released under the MIT License. See [LICENSE](LICENSE) for the full text.
+
 ## Citation
 
-See [CITATION.cff](CITATION.cff).
+This project is best cited alongside the core background literature on retrieval-augmented generation, prompt injection, and jailbreak evaluation:
+
+- Greshake, K., Abdelnabi, S., Machanavajjhala, A., Biggio, B., Roli, F., and Fischlin, M. (2023). "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection." arXiv:2302.12173.
+- Wei, A., Haghtalab, N., and Steinhardt, J. (2023). "Jailbroken: How does LLM safety training fail?" arXiv:2307.02483.
+- Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W.-t., Rocktäschel, T., Riedel, S., and Kiela, D. (2020). "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks." arXiv:2005.11401.
+
+Project metadata is also available in [CITATION.cff](CITATION.cff).
