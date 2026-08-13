@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "note": "Do not alter indices; this split is kept frozen for reproducibility.",
+  "train": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "val": [
+    4
+  ],
+  "test": [
+    5
+  ]
+}

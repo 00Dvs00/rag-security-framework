@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+networkx
+transformers
+sentence-transformers
+faiss-cpu
+datasets
+torch
+jupyter
+pytest
+black
+ruff
+nbstripout

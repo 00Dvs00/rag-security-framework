@@ -1,0 +1,23 @@
+name: rag-jailbreak-defense
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - jupyter
+  - numpy
+  - pandas
+  - scikit-learn
+  - networkx
+  - pip:
+      - transformers
+      - sentence-transformers
+      - faiss-cpu
+      - datasets
+      - torch
+      - jupyterlab
+      - pytest
+      - black
+      - ruff
+      - nbstripout
