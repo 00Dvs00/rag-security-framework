@@ -58,7 +58,6 @@ The implementation is organized around a layered defense pipeline:
 │   └── workflows/
 │       └── tests.yml
 ├── Capstone_Final_Document.pdf
-└── capstone_v19_chatbot (1).ipynb
 ```
 
 ## Setup
